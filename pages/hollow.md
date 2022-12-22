@@ -5,7 +5,7 @@ layout: alwaysnaviffamily
 
 # Page title
 # If omitted, the page will not be included in the navbar
-title: Projects
+title: hollow
 
 # Specifies the order of the current page from the point of view of the navbar
 # Can have repetition in the numbers, for parent-child hierarchies
